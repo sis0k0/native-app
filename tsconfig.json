@@ -6,7 +6,15 @@
         "experimentalDecorators": true,
         "emitDecoratorMetadata": true,
         "noEmitHelpers": true,
-        "noEmitOnError": true
+        "noEmitOnError": true,
+        "paths": {
+            "@apis/*": [
+                "app/shared/apis/*"
+            ],
+            "@interfaces/*": [
+                "app/shared/interfaces/*"
+            ]
+        }
     },
     "exclude": [
         "node_modules",
