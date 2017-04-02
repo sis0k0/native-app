@@ -1,0 +1,10 @@
+/Users/christofferskog/Desktop/fleat/native-app/HelloWorld/platforms/android/src/main/assets/app/app-router.module.js
+/Users/christofferskog/Desktop/fleat/native-app/HelloWorld/platforms/android/src/main/assets/app/pages/+login/login.component.js
+/Users/christofferskog/Desktop/fleat/native-app/HelloWorld/platforms/android/src/main/assets/app/main.js
+/Users/christofferskog/Desktop/fleat/native-app/HelloWorld/platforms/android/src/main/assets/app/pages/+register/register.component.js
+/Users/christofferskog/Desktop/fleat/native-app/HelloWorld/platforms/android/src/main/assets/app/pages/+register/register-router.module.js
+/Users/christofferskog/Desktop/fleat/native-app/HelloWorld/platforms/android/src/main/assets/app/pages/+login/login-router.module.js
+/Users/christofferskog/Desktop/fleat/native-app/HelloWorld/platforms/android/src/main/assets/app/pages/+register/register.module.js
+/Users/christofferskog/Desktop/fleat/native-app/HelloWorld/platforms/android/src/main/assets/app/app.component.js
+/Users/christofferskog/Desktop/fleat/native-app/HelloWorld/platforms/android/src/main/assets/app/app.module.js
+/Users/christofferskog/Desktop/fleat/native-app/HelloWorld/platforms/android/src/main/assets/app/pages/+login/login.module.js

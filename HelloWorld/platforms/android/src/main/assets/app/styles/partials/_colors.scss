@@ -1,0 +1,49 @@
+.#{$ns}-color-primary {
+  color: palette('primary');
+  transition: color 150ms ease-in-out;
+}
+
+.#{$ns}-color-primary-hover {
+
+  &:hover {
+    color: palette('primary', 'dark');
+  }
+}
+
+.#{$ns}-color-black-complementary {
+  color: #696968;
+}
+
+.#{$ns}-color-warning {
+  color: palette('warning');
+  transition: color 150ms ease-in-out;
+}
+
+// Had to use important cuz .lyz-label has a higher specificity :/
+.#{$ns}-color-danger {
+  color: palette('danger') !important;
+  transition: color 150ms ease-in-out;
+}
+
+.#{$ns}-color-danger-hover {
+
+  &:hover {
+    color: palette('danger', 'dark') !important;
+  }
+}
+
+.#{$ns}-color-text-light {
+  color: palette('text', 'light');
+}
+
+.#{$ns}-color-light {
+  color: white;
+}
+
+.#{$ns}-color-dark {
+  color: black;
+}
+
+.#{$ns}-text-dark {
+  color: palette('text', 'dark');
+}

@@ -1,0 +1,17 @@
+$success: green;
+
+$colors: (
+  success: (
+    base: $success
+  ),
+  danger: (
+    base: $danger,
+    light: $danger-light,
+    dark: $danger-dark,
+    washed: $danger-washed
+  ),
+  facebook: (
+    base: #3b5998,
+    washed: #97abd6
+  )
+);

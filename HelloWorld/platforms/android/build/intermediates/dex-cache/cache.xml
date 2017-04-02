@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/christofferskog/Desktop/fleat/native-app/HelloWorld/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/christofferskog/Desktop/fleat/native-app/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-compat-25.2.0_edfe131169db9366886e073f5d402aef327139f7.jar" />
+    </item>
+    <item
+        jar="/Users/christofferskog/Desktop/fleat/native-app/HelloWorld/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/christofferskog/Desktop/fleat/native-app/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-vector-drawable-25.2.0_e761552f81da56a7726a4b258efa9bf546a50536.jar" />
+    </item>
+    <item
+        jar="/Users/christofferskog/Desktop/fleat/native-app/HelloWorld/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/christofferskog/Desktop/fleat/native-app/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-v4-25.2.0_25e60ee1df6e6c09413bd0d63c6356179c373d35.jar" />
+    </item>
+    <item
+        jar="/Users/christofferskog/Desktop/fleat/native-app/HelloWorld/platforms/android/build/intermediates/exploded-aar/com.android.support/transition/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="/Users/christofferskog/Desktop/fleat/native-app/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-transition-25.2.0_514d25065adc28ccb1b4cc3d95797b29e9a6e04d.jar" />
+    </item>
+    <item
+        jar="/Users/christofferskog/Desktop/fleat/native-app/HelloWorld/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/christofferskog/Desktop/fleat/native-app/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-animated-vector-drawable-25.2.0_d86b0617ca64202a8b8361c8cdaf788a236f0f8c.jar" />
+    </item>
+    <item
+        jar="/Users/christofferskog/Desktop/fleat/native-app/HelloWorld/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/christofferskog/Desktop/fleat/native-app/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-media-compat-25.2.0_a462c94788b983e42ac169d13b844ab79fb24f74.jar" />
+    </item>
+    <item
+        jar="/Users/christofferskog/Desktop/fleat/native-app/HelloWorld/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/christofferskog/Desktop/fleat/native-app/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-appcompat-v7-25.2.0_3c4f48f15fc55bdff180a895e01a7f9304be42c8.jar" />
+    </item>
+    <item
+        jar="/usr/local/opt/android-sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/christofferskog/Desktop/fleat/native-app/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0/debug/support-annotations-25.2.0_5ce01ff83f4e2c787ef3bbe06ca21486272f57ca.jar" />
+    </item>
+    <item
+        jar="/Users/christofferskog/Desktop/fleat/native-app/HelloWorld/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/christofferskog/Desktop/fleat/native-app/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-fragment-25.2.0_a8a91b46f2662c519c2ed1b361ff2dab85c0f13c.jar" />
+    </item>
+    <item
+        jar="/Users/christofferskog/Desktop/fleat/native-app/HelloWorld/platforms/android/build/intermediates/exploded-aar/com.android.support/design/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="/Users/christofferskog/Desktop/fleat/native-app/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-design-25.2.0_097ebcfb3983b0b755a7f7abdf46e9c125dbd735.jar" />
+    </item>
+    <item
+        jar="/Users/christofferskog/Desktop/fleat/native-app/HelloWorld/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/christofferskog/Desktop/fleat/native-app/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-ui-25.2.0_e39c979015101348901990dcbd5c8715f7710286.jar" />
+    </item>
+    <item
+        jar="/Users/christofferskog/Desktop/fleat/native-app/HelloWorld/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="8a73b09319cc3945912970487ced4c7724acc97d">
+        <dex dex="/Users/christofferskog/Desktop/fleat/native-app/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0/debug/intermediates-exploded-aar-widgets-release_44b20ce8a51f2d4a58edd40952811dd7d1baf4b9.jar" />
+    </item>
+    <item
+        jar="/Users/christofferskog/Desktop/fleat/native-app/HelloWorld/platforms/android/build/intermediates/exploded-aar/HelloWorld/runtime/unspecified/jars/libs/binding-generator.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d82f3ca98719f09b65db6aeaf450ad3bafc46e81">
+        <dex dex="/Users/christofferskog/Desktop/fleat/native-app/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0/debug/binding-generator_796c3da6eaad64857dafbff7e5e6902569f9eac0.jar" />
+    </item>
+    <item
+        jar="/Users/christofferskog/Desktop/fleat/native-app/HelloWorld/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/Users/christofferskog/Desktop/fleat/native-app/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-recyclerview-v7-25.2.0_4037ed1b27385f5445baf2872aba7da4a33bf438.jar" />
+    </item>
+    <item
+        jar="/Users/christofferskog/Desktop/fleat/native-app/HelloWorld/platforms/android/build/intermediates/exploded-aar/HelloWorld/runtime/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="632bf39700c28ba66c117628dab343126ef89551">
+        <dex dex="/Users/christofferskog/Desktop/fleat/native-app/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0/debug/HelloWorld-runtime-unspecified_4caac0997f7e3b1116268d1d11a08f30789605a3.jar" />
+    </item>
+    <item
+        jar="/Users/christofferskog/Desktop/fleat/native-app/HelloWorld/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/christofferskog/Desktop/fleat/native-app/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-utils-25.2.0_f86ab871b62964629a6f21e02631bff6c2aa993e.jar" />
+    </item>
+
+</items>
