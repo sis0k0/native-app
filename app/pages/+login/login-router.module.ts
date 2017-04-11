@@ -6,14 +6,13 @@ import {LoginComponent} from './login.component';
 
 const routes: Routes = [
   {
-    path: '', 
+    path: '',
     component: LoginComponent
   }
 ];
 
 @NgModule({
-  imports: [NativeScriptRouterModule.forChild(routes)],
-  declarations: [LoginComponent]
+  imports: [NativeScriptRouterModule.forChild(routes)]
 })
 
 export class LoginRouterModule {}
