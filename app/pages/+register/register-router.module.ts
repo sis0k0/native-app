@@ -6,14 +6,13 @@ import {RegisterComponent} from './register.component';
 
 const routes: Routes = [
   {
-    path: '', 
+    path: '',
     component: RegisterComponent
   }
 ];
 
 @NgModule({
-  imports: [NativeScriptRouterModule.forChild(routes)],
-  declarations: [RegisterComponent]
+  imports: [NativeScriptRouterModule.forChild(routes)]
 })
 
 export class RegisterRouterModule {}
